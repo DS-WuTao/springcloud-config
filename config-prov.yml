@@ -1,1 +1,3 @@
-config-prov.yml..
+config:
+  info: /main branch,springcloud-config/config-prov.yml 
+  version: 1
